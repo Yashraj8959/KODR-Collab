@@ -1,1 +1,1 @@
-alert("First commit")
+alert("do u guys understand git and github")
